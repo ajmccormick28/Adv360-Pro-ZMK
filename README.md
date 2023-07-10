@@ -1,4 +1,4 @@
-# ADV360-PRO-ZMK
+# ADV360-PRO-ZMK2
 
 ## Modifying the keymap
 
